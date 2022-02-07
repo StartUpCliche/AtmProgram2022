@@ -1,0 +1,39 @@
+What does an ATM do ?
+
+Tuesday, January 25, 2022
+6:39 PM
+
+ATM FUNCTIONS
+
+Main functions:
+	• DISPLAY ACCOUNT BALANCES
+	• DEPOSIT FUNDS
+	• TRANSFER FUNDS BETWEEN ACCOUNTS
+	• WITHDRAW FUNDS
+	
+
+Secondary Functions:
+	• Get Available Balance
+	• Compare Balance to Request 
+	• Update Account
+	• Disperse Funds
+	• Reject Request
+	• Print Reciept
+
+Third layer Functions:
+	• Verify Ample Funds Exist
+	• Initiate Mechanical Process
+Update Bank Records
+************************************
+Validation Interface Class:
+There is an Interface I need to create in my program that the client class will recognize and use its methods.
+
+The methods:
+	• -validateName()
+	• -validateAddress()
+	• -validateDOB()
+	• -validatePin()
+
+I need to create algorithms to validate what the user inputs
+*************************************************************
+
